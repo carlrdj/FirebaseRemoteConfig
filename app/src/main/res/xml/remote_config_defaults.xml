@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultMap>
+    <entry>
+        <key>color_background</key>
+        <value>#3F5A12</value>
+    </entry>
+    <entry>
+        <key>image_background</key>
+        <value>logo</value>
+    </entry>
+</defaultMap>
